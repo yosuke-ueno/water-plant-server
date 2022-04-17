@@ -1,0 +1,7 @@
+django
+django-rest-framework
+django-cors-headers
+mysqlclient
+gunicorn
+django-heroku
+dj-database-url
