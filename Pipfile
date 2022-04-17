@@ -8,6 +8,9 @@ django-rest-framework = "*"
 django-cors-headers = "*"
 Django = "*"
 mysqlclient = "*"
+gunicorn = "*"
+django-heroku = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
